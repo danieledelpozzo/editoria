@@ -1,4 +1,4 @@
-# Intelligenza Artificiale e Medicina
+# Articolo 2
 
 ## Introduzione
 
