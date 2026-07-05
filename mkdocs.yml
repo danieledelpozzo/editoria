@@ -1,11 +1,25 @@
-site_name: Editoria Digitale
+site_name: Science & Disinformation Briefs
 
 theme:
-  name: readthedocs
+  name: material
+  palette:
+    - scheme: default
+      primary: white
+      accent: orange
+  font:
+    text: Merriweather
+    code: Roboto Mono
+  features:
+    - navigation.sections
+    - toc.integrate
+    - content.code.copy
+
+extra_css:
+  - css/substack.css
 
 nav:
   - Home: index.md
-  - Articolo 1: article1.md
-  - Articolo 2: article2.md
-  - Articolo 3: article3.md
-  - Articolo 4: article4.md
+  - Article 1: article1.md
+  - Article 2: article2.md
+  - Article 3: article3.md
+  - Article 4: article4.md
