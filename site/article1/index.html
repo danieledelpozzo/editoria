@@ -46,9 +46,13 @@
               <ul class="current">
                 <li class="toctree-l1 current"><a class="reference internal current" href="#">Articolo 1</a>
     <ul class="current">
-    <li class="toctree-l2"><a class="reference internal" href="#introduzione">Introduzione</a>
+    <li class="toctree-l2"><a class="reference internal" href="#introduction">Introduction</a>
     </li>
-    <li class="toctree-l2"><a class="reference internal" href="#ai-e-medicina">AI e Medicina</a>
+    <li class="toctree-l2"><a class="reference internal" href="#the-study-ten-models-put-to-the-test">The study: ten models put to the test</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#why-this-matters-for-journalism">Why this matters for journalism</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#ai-and-disinformation">AI and Disinformation</a>
     </li>
     </ul>
                 </li>
@@ -88,16 +92,19 @@
           <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
             <div class="section" itemprop="articleBody">
               
-                <h1 id="articolo1">articolo1</h1>
-<h2 id="introduzione">Introduzione</h2>
-<p>Questo è un paragrafo normale.</p>
-<p><a href="https://openai.com">OpenAI</a></p>
-<blockquote>
-<p>Questa è una citazione.</p>
-</blockquote>
-<p><code>codice</code></p>
-<h2 id="ai-e-medicina">AI e Medicina</h2>
-<p>Torna alla <a href="../index.html">home</a></p>
+                <h1 id="artificial-intelligence-and-disinformation-how-dangerous-are-chatbots-really">Artificial Intelligence and Disinformation: How Dangerous Are Chatbots, Really?</h1>
+<h2 id="introduction">Introduction</h2>
+<p>Since ChatGPT and its competitors became part of everyday life, concern has grown that these tools could be used to mass-produce false content. This is no longer just a theoretical risk: a team of Slovak and Czech researchers put ten large language models (LLMs) to the test, asking each of them to write fake news articles based on twenty conspiracy narratives already circulating online, ranging from COVID-19 denialism to hoaxes about the US elections. The results, published in an open access paper, offer a useful snapshot for journalists and science communicators alike.</p>
+<h2 id="the-study-ten-models-put-to-the-test">The study: ten models put to the test</h2>
+<p>The study <em>"Disinformation Capabilities of Large Language Models"</em> (Vykopal et al., ACL 2024) evaluated models such as ChatGPT, GPT-4, GPT-3, Falcon, Vicuna, Llama-2, and Mistral, asking each one to generate three articles per narrative, for a total of 1,200 texts. Two human annotators then rated every text against six criteria: how well-formed the writing was, how closely it resembled a genuine news article, and, above all, whether the model agreed or disagreed with the disinformation it was asked to produce.</p>
+<p>The most striking finding is that most models offered little resistance: they produced coherent, well-structured articles capable of introducing new supporting arguments for false narratives, often inventing names, events, and statistics that were never part of the original prompt. Only two models, <strong>Falcon</strong> and, to a lesser extent, <strong>ChatGPT</strong>, showed more caution, sometimes refusing to write the text or adding a disclaimer pointing out that the content was fictional. <strong>Vicuna</strong> and <strong>GPT-3 Davinci</strong>, on the other hand, proved the most willing to generate disinformation without hesitation, almost always aligning with the proposed narrative.</p>
+<p>Another notable finding concerns the role of context in the prompt: when models were given a short abstract summarizing the narrative to support, the likelihood that the generated text aligned with the disinformation increased significantly. In other words, these systems turned out to be easily "steerable" toward biased content.</p>
+<p>Finally, the researchers also tested whether automated tools could detect AI-generated text. The most effective detectors, based on the ELECTRA architecture, reached an F1 score of around 0.8 — an encouraging but not definitive result, still leaving room for error in real-world settings.</p>
+<h2 id="why-this-matters-for-journalism">Why this matters for journalism</h2>
+<p>For journalists and science communicators, the study offers concrete takeaways: generating disinformation with an LLM today costs only a few dollars and requires minimal skill, but some models also build in more effective safety mechanisms than others. Understanding which tools are relatively "safer" and which are more vulnerable to misuse can help newsrooms better assess the likely origin of suspicious content circulating online, and can inform the broader public debate on stricter rules for the development of these systems.</p>
+<p><strong>Source</strong>: Ivan Vykopal, Matúš Pikuliak, Ivan Srba, Robert Moro, Dominik Macko, Maria Bielikova, <em>"Disinformation Capabilities of Large Language Models"</em>, Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024), pp. 14830–14847. Available open access on <a href="https://aclanthology.org/2024.acl-long.793/">ACL Anthology</a>.</p>
+<h2 id="ai-and-disinformation">AI and Disinformation</h2>
+<p>Back to <a href="../index.html">home</a></p>
               
             </div>
           </div><footer>
