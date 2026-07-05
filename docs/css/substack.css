@@ -1,1 +1,111 @@
+/* ---------------------------------------------------
+   Substack-like look for MkDocs Material
+--------------------------------------------------- */
 
+/* Import a serif font similar to what Substack uses for body text */
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Inter:wght@400;600;700&display=swap');
+
+/* Narrow, centered reading column like a Substack post */
+.md-grid {
+  max-width: 760px;
+}
+
+/* Hide the default sidebar navigation to mimic Substack's single-column feed */
+.md-sidebar--primary {
+  display: none;
+}
+
+/* Body text: warm serif, generous line height, larger size for readability */
+.md-typeset {
+  font-family: 'Merriweather', Georgia, serif;
+  font-size: 1.05rem;
+  line-height: 1.75;
+  color: #1a1a1a;
+}
+
+/* Headings: switch to a clean sans-serif, Substack-style, bold and tight */
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3 {
+  font-family: 'Inter', -apple-system, sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  color: #111;
+}
+
+/* Big, magazine-style H1 (the "post title") */
+.md-typeset h1 {
+  font-size: 2.3rem;
+  line-height: 1.2;
+  margin-top: 1.5rem;
+  margin-bottom: 0.4rem;
+}
+
+/* H2 acts like a subtitle / section break, lighter weight */
+.md-typeset h2 {
+  font-size: 1.3rem;
+  font-weight: 500;
+  color: #555;
+  margin-top: 2rem;
+}
+
+/* Minimal top header bar, white background, thin bottom border like Substack's nav */
+.md-header {
+  background-color: #ffffff;
+  color: #111;
+  box-shadow: none;
+  border-bottom: 1px solid #eee;
+}
+
+.md-header__title {
+  font-family: 'Inter', sans-serif;
+  font-weight: 700;
+}
+
+/* Remove the material "primary color" tab bar, keep it flat and white */
+.md-tabs {
+  background-color: #ffffff;
+  border-bottom: 1px solid #eee;
+}
+
+.md-tabs__link {
+  color: #333;
+  font-family: 'Inter', sans-serif;
+}
+
+/* Links: Substack orange-ish accent, no underline until hover */
+.md-typeset a {
+  color: #d4622a;
+  text-decoration: none;
+  border-bottom: 1px solid rgba(212, 98, 42, 0.3);
+}
+
+.md-typeset a:hover {
+  border-bottom-color: #d4622a;
+}
+
+/* Blockquotes: simple left bar, like a pull-quote in a newsletter */
+.md-typeset blockquote {
+  border-left: 3px solid #d4622a;
+  padding-left: 1rem;
+  color: #444;
+  font-style: italic;
+}
+
+/* Horizontal rule as a soft section divider */
+.md-typeset hr {
+  border: none;
+  border-top: 1px solid #eee;
+  margin: 2.5rem 0;
+}
+
+/* Footer: quiet, small, centered, like a newsletter footer */
+.md-footer {
+  background-color: #fafafa;
+  color: #888;
+}
+
+/* Give the content some breathing room like a printed article */
+.md-content__inner {
+  padding-top: 2rem;
+}
