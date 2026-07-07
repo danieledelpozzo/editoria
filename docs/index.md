@@ -19,4 +19,4 @@ Every brief in this collection is built on a study that is freely available to r
 
 ## A living, updatable format
 
-This site is built with MkDocs, so new briefs can be added quickly as new research and new debates emerge. On AI, climate, health, or any other topic where accurate, timely science communication makes a difference. Think of it less as a finished publication and more as a template: a repeatable workflow for turning credible research into content that is ready to publish, share, or adapt.
+This site is built with MkDocs, so new briefs can be added quickly as new research and new debates emerge. Oon AI, climate, health, or any other topic where accurate, timely science communication makes a difference. Think of it less as a finished publication and more as a template: a repeatable workflow for turning credible research into content that is ready to publish, share, or adapt.
