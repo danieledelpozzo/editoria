@@ -15,4 +15,4 @@ Il sito è stato progettato con un'impostazione editoriale ispirata a piattaform
 - **Git e GitHub** per il versionamento e la gestione del progetto.
 - **GitHub Pages** per la pubblicazione online.
 
-link al sito: https://danieledelpozzo.github.io/editoria/
+Link al sito: https://danieledelpozzo.github.io/editoria/
