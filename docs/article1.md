@@ -20,7 +20,10 @@ For journalists and science communicators, the study offers concrete takeaways: 
 
 **Source**: Ivan Vykopal, Matúš Pikuliak, Ivan Srba, Robert Moro, Dominik Macko, Maria Bielikova, *"Disinformation Capabilities of Large Language Models"*, Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024), pp. 14830–14847. Available open access on [ACL Anthology](https://aclanthology.org/2024.acl-long.793/).
 
-## AI and Disinformation
+## Social media snippet
+> Can chatbots be weaponized to spread disinformation? A new ACL 2024 study 
+> tested 10 LLMs and found most offered zero resistance. Only two models 
+> pushed back. Full story ↓
 
 Back to [home](../index.html)
 
