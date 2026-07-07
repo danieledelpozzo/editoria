@@ -22,6 +22,9 @@ For journalists and science communicators, this review offers a map of where dis
 
 **Source**: Ana Aleksandric, Michael Gaspar, Toria Shaw Morawski, Gabriela Mustata Wilson, *"The impact of social media misinformation on public health interventions"*, Health Education and Care, 7:1-6 (2022). Open access under the Creative Commons Attribution License, available at [Health Education and Care](https://doi.org/10.15761/HEC.1000191).
 
-## Global Health and Disinformation
+## Social media snippet
+> Vaccine hesitancy isn't new but social media supercharged it. A new review 
+> shows misinformation hits hardest exactly where health systems are already 
+> under strain. Full story ↓
 
 Back to [home](../index.html)
