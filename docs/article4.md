@@ -20,6 +20,9 @@ For journalists and communicators, this mapping offers a practical orientation t
 
 **Source**: Federico Pilati, Tommaso Venturini, *"The use of artificial intelligence in counter-disinformation: a world wide (web) mapping"*, Frontiers in Political Science, 7:1517726 (2025). Open access under the Creative Commons Attribution License, available at [Frontiers in Political Science](https://doi.org/10.3389/fpos.2025.1517726).
 
-## AI and Counter-Disinformation
+## Social media snippet
+> Can AI fight the disinformation it helps create? A new study maps 81 global 
+> initiatives using AI against fake news and finds almost none of them 
+> outside Europe and the US. Full story ↓
 
 Back to [home](../index.html)
