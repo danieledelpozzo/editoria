@@ -1,5 +1,7 @@
 # Disinformation, Politics, and Rhetoric: What Spanish Lawmakers Really Talk About
 
+*Published July 3, 2026*
+
 ## Introduction
 
 "Fake president," "fake investiture," accusations of lying hurled back and forth across the chamber: in Spanish politics, the vocabulary of disinformation has become a routine weapon of parliamentary combat. But does this rhetoric reflect a genuine political commitment to fighting disinformation, or is it mostly a tool for scoring points against opponents? A study just published in *Frontiers in Communication* set out to answer exactly that question, analyzing over a thousand speeches given in Spain's Congress of Deputies during the first year of the COVID-19 pandemic — a period marked by high polarization and a documented surge in misinformation.
