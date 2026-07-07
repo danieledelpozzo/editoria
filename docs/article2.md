@@ -20,6 +20,9 @@ For journalists and science communicators covering political discourse, this stu
 
 **Source**: Ricardo Domínguez-García, Ana Velasco-Molpeceres, Concha Pérez-Curiel, *"Disinformation in the Spanish public debate: an analysis of political speeches in the Congress of Deputies"*, Frontiers in Communication, 9:1363941 (2024). Open access under CC BY license, available at [Frontiers in Communication](https://doi.org/10.3389/fcomm.2024.1363941).
 
-## Disinformation and Political Communication
+## Social media snippet
+> When Spanish politicians say "disinformation," what do they actually mean? 
+> A year of parliamentary speeches shows it's mostly a weapon for attacking 
+> rivalry,  not a policy issue. Full story ↓
 
 Back to [home](../index.html)
