@@ -1,5 +1,5 @@
 # Global Health Under Siege: How Social Media Misinformation Undermines Vaccination Campaigns
-
+*Published July 5, 2026*
 ## Introduction
 
 Vaccine hesitancy did not begin with COVID-19, but the pandemic gave it an unprecedented stage. As health authorities raced to roll out vaccines and communicate accurate guidance, social media platforms became fertile ground for exactly the opposite: rumors, conspiracy theories, and false claims that spread, according to research, faster than the truth itself. A 2022 study published in *Health Education and Care* takes stock of what we know about the relationship between social media misinformation and the success of public health interventions, and — more usefully for practitioners — what can actually be done about it.
