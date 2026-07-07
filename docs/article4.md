@@ -1,5 +1,5 @@
 # Fighting Fire with Fire: Mapping How AI Is Being Used Against Disinformation
-
+*Published July 7, 2026*
 ## Introduction
 
 If artificial intelligence can be used to mass-produce disinformation, can it also be turned against it? Governments, tech companies, and civil society have bet heavily that it can, funding dozens of AI-powered fact-checking tools, detection systems, and verification platforms over the past several years. But with so many initiatives launched independently across different countries, a basic question has gone largely unanswered: who is actually doing what, and how do these efforts relate to one another? A new study published in *Frontiers in Political Science* takes on exactly that question, mapping the global landscape of AI-driven counter-disinformation projects for the first time.
