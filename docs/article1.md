@@ -1,5 +1,7 @@
 # Artificial Intelligence and Disinformation: How Dangerous Are Chatbots, Really?
 
+*Published July 1, 2026*
+
 ## Introduction
 
 Since ChatGPT and its competitors became part of everyday life, concern has grown that these tools could be used to mass-produce false content. This is no longer just a theoretical risk: a team of Slovak and Czech researchers put ten large language models (LLMs) to the test, asking each of them to write fake news articles based on twenty conspiracy narratives already circulating online, ranging from COVID-19 denialism to hoaxes about the US elections. The results, published in an open access paper, offer a useful snapshot for journalists and science communicators alike.
