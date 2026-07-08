@@ -27,4 +27,13 @@ For journalists and science communicators covering political discourse, this stu
 > A year of parliamentary speeches shows it's mostly a weapon for attacking 
 > rivalry,  not a policy issue. Full story ↓
 
+---
+
+## Reader feedback
+
+Did this article help you better understand the topic?
+
+- 👍 Helpful
+- 👎 Needs improvement
+
 Back to [home](../index.html)
