@@ -27,4 +27,13 @@ For journalists and science communicators, this review offers a map of where dis
 > shows misinformation hits hardest exactly where health systems are already 
 > under strain. Full story ↓
 
+---
+
+## Reader feedback
+
+Did this article help you better understand the topic?
+
+- 👍 Helpful
+- 👎 Needs improvement
+
 Back to [home](../index.html)
