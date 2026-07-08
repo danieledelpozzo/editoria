@@ -14,7 +14,7 @@ The most striking finding is that most models offered little resistance: they pr
 
 Another notable finding concerns the role of context in the prompt: when models were given a short abstract summarizing the narrative to support, the likelihood that the generated text aligned with the disinformation increased significantly. In other words, these systems turned out to be easily "steerable" toward biased content.
 
-Finally, the researchers also tested whether automated tools could detect AI-generated text. The most effective detectors, based on the ELECTRA architecture, reached an F1 score of around 0.8 — an encouraging but not definitive result, still leaving room for error in real-world settings.
+Finally, the researchers also tested whether automated tools could detect AI-generated text. The most effective detectors, based on the ELECTRA architecture, reached an F1 score of around 0.8, an encouraging but not definitive result, still leaving room for error in real-world settings.
 
 ## Why this matters for journalism
 
