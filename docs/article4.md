@@ -25,4 +25,14 @@ For journalists and communicators, this mapping offers a practical orientation t
 > initiatives using AI against fake news and finds almost none of them 
 > outside Europe and the US. Full story ↓
 
+---
+
+## Reader feedback
+
+Did this article help you better understand the topic?
+
+- 👍 Helpful
+- 👎 Needs improvement
+
 Back to [home](../index.html)
+
