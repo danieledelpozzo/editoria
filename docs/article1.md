@@ -27,6 +27,16 @@ For journalists and science communicators, the study offers concrete takeaways: 
 > tested 10 LLMs and found most offered zero resistance. Only two models 
 > pushed back. Full story ↓
 
+---
+
+## Reader feedback
+
+Did this article help you better understand the topic?
+
+- 👍 Helpful
+- 👎 Needs improvement
+
+
 Back to [home](../index.html)
 
 
