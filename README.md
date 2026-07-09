@@ -15,4 +15,4 @@ The website was designed with an editorial approach inspired by platforms such a
 - **Git and GitHub** for version control and project management.
 - **GitHub Pages** for online publication.
 
-Link al sito: https://danieledelpozzo.github.io/editoria/
+Link to the website: https://danieledelpozzo.github.io/editoria/
