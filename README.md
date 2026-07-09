@@ -1,18 +1,18 @@
 
 # Science & Disinformation Briefs
 
-Progetto di **Editoria Digitale** - Università degli Studi di Milano (a.a. 2025/2026).
+Multimedia Publishing project - University of Milan (academic year 2025/2026).
 
-Il progetto consiste nella realizzazione di un prodotto editoriale digitale dedicato alla **disinformazione scientifica**, con l'obiettivo di fornire sintesi accessibili di articoli scientifici open access rivolte a giornalisti, comunicatori scientifici e operatori dell'informazione.
+The project consists of creating a digital editorial product dedicated to **scientific disinformation**, with the aim of providing accessible summaries of open-access scientific articles for journalists, science communicators, and information professionals.
 
-Il sito è stato progettato con un'impostazione editoriale ispirata a piattaforme come **Substack**, con particolare attenzione alla leggibilità e alla facilità di aggiornamento.
+The website was designed with an editorial approach inspired by platforms such as **Substack**, with particular attention to readability and ease of updating.
 
-## Tecnologie utilizzate
+## Technologies Used
 
-- **Markdown** per la gestione dei contenuti editoriali.
-- **MkDocs** per la generazione del sito statico.
-- **Material for MkDocs** e CSS personalizzato per la grafica.
-- **Git e GitHub** per il versionamento e la gestione del progetto.
-- **GitHub Pages** per la pubblicazione online.
+- **Markdown** for managing editorial content.
+- **MkDocs** for generating the static website.
+- **Material for MkDocs** and custom CSS for the visual design.
+- **Git and GitHub** for version control and project management.
+- **GitHub Pages** for online publication.
 
 Link al sito: https://danieledelpozzo.github.io/editoria/
