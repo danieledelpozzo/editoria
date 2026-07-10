@@ -11,7 +11,7 @@ The website was designed with an editorial approach inspired by platforms such a
 
 - **Markdown** for managing editorial content.
 - **MkDocs** for generating the static website.
-- **Material for MkDocs** and custom CSS for the visual design.
+- **Material for MkDocs** for the visual design.
 - **Git and GitHub** for version control and project management.
 - **GitHub Pages** for online publication.
 
